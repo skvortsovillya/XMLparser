@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<coffeeDataBase>
+    <coffee>
+        <city>Київ</city>
+        <address>Майдан ТЦ "Глобус"</address>
+        <name>Капучіно</name>
+        <price>10.0</price>
+        <rate>5.0</rate>
+        <kind>Зерновий</kind>
+        <bags>Ні</bags>
+    </coffee>
+    <coffee>
+        <city>Київ</city>
+        <address>Майдан "Арома кава"</address>
+        <name>Американо</name>
+        <price>14.0</price>
+        <rate>3.0</rate>
+        <kind>Зерновий</kind>
+        <bags>Ні</bags>
+    </coffee>
+    <coffee>
+        <city>Вінниця</city>
+        <address>Соборна ТЦ "Sky Park"</address>
+        <name>Капучіно</name>
+        <price>8.0</price>
+        <rate>3.9</rate>
+        <kind>Зерновий</kind>
+        <bags>Так</bags>
+    </coffee>
+</coffeeDataBase>

@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3386af79-4d7b-42b3-b1df-486f5d7cc9c5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/laboop2$testSAX.coverage" NAME="testSAX Coverage Results" MODIFIED="1512434380307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$oop2.coverage" NAME="oop2 Coverage Results" MODIFIED="1518519968629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$transform.coverage" NAME="transform Coverage Results" MODIFIED="1512426049337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$analise.coverage" NAME="analise Coverage Results" MODIFIED="1512470504003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$Unittests_in_dom_unittest_py.coverage" NAME="Unittests in dom_unittest.py Coverage Results" MODIFIED="1512476857906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$Unittests_in_unittests_py.coverage" NAME="Unittests in unittests.py Coverage Results" MODIFIED="1512439528401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$testDOM.coverage" NAME="testDOM Coverage Results" MODIFIED="1512320367691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboop2$Unittests_in_unittest2_py.coverage" NAME="Unittests in unittest2.py Coverage Results" MODIFIED="1512476378171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="analise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1292">
+              <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#72#680#0" expanded="false" />
+                <element signature="e#726#874#0" expanded="false" />
+                <element signature="e#1040#3177#0" expanded="false" />
+                <element signature="e#3593#4136#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transform.xsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transform.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transform.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transform.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oop2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3440">
+              <caret line="368" column="25" lean-forward="true" selection-start-line="368" selection-start-column="25" selection-end-line="368" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output5.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output5.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analise.uml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analise.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/analise.py</OriginalElement>
+              <nodes>
+                <node x="135.96296296296293" y="543.0">analise.Document</node>
+                <node x="923.9629629629629" y="510.0">abc.ABCMeta</node>
+                <node x="0.0" y="800.0">analise.SAX</node>
+                <node x="686.0" y="800.0">analise.DOM</node>
+                <node x="519.5" y="699.0">analise.Analise</node>
+                <node x="31.962962962962933" y="565.0">metaclass</node>
+                <node x="490.6759259259259" y="0.0">_collections_abc.Hashable</node>
+                <node x="456.6759259259259" y="123.0">object</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="object" target="_collections_abc.Hashable">
+                  <point x="0.0" y="-168.5" />
+                  <point x="0.0" y="36.5" />
+                </edge>
+                <edge source="metaclass" target="object">
+                  <point x="0.0" y="-14.5" />
+                  <point x="73.96296296296293" y="485.0" />
+                  <point x="498.50925925925924" y="485.0" />
+                  <point x="-83.66666666666669" y="168.5" />
+                </edge>
+                <edge source="analise.Analise" target="object">
+                  <point x="0.0" y="-25.5" />
+                  <point x="852.5" y="674.0" />
+                  <point x="913.4629629629629" y="674.0" />
+                  <point x="913.4629629629629" y="485.0" />
+                  <point x="665.8425925925926" y="485.0" />
+                  <point x="83.66666666666674" y="168.5" />
+                </edge>
+                <edge source="analise.Analise" target="abc.ABCMeta">
+                  <point x="222.0" y="-25.5" />
+                  <point x="1074.5" y="674.0" />
+                  <point x="1084.462962962963" y="674.0" />
+                  <point x="0.0" y="69.5" />
+                </edge>
+                <edge source="analise.SAX" target="analise.Analise">
+                  <point x="0.0" y="-25.5" />
+                  <point x="333.0" y="775.0" />
+                  <point x="686.0" y="775.0" />
+                  <point x="-166.5" y="25.5" />
+                </edge>
+                <edge source="analise.Analise" target="metaclass">
+                  <point x="-222.0" y="-25.5" />
+                  <point x="630.5" y="674.0" />
+                  <point x="73.96296296296293" y="674.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="analise.DOM" target="analise.Analise">
+                  <point x="0.0" y="-25.5" />
+                  <point x="166.5" y="25.5" />
+                </edge>
+                <edge source="analise.Document" target="object">
+                  <point x="0.0" y="-36.5" />
+                  <point x="519.4629629629629" y="485.0" />
+                  <point x="582.1759259259259" y="485.0" />
+                  <point x="0.0" y="168.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="463.5" y="895.0" />
+              <SelectedNodes>
+                <node>_collections_abc.Hashable</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Inner Classes</Category>
+                <Category>Methods</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.</find>
+      <find>global_flag</find>
+      <find>document</find>
+      <find>d_flag</find>
+      <find>tag_name</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.d_flag</replace>
+      <replace>start_tag</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oop2.xml.py" />
+        <option value="$PROJECT_DIR$/1.xsl" />
+        <option value="$PROJECT_DIR$/design.py" />
+        <option value="$PROJECT_DIR$/transform.py" />
+        <option value="$PROJECT_DIR$/output.txt" />
+        <option value="$PROJECT_DIR$/testDOM.py" />
+        <option value="$PROJECT_DIR$/output4.txt" />
+        <option value="$PROJECT_DIR$/output8.txt" />
+        <option value="$PROJECT_DIR$/output9.txt" />
+        <option value="$PROJECT_DIR$/output10.txt" />
+        <option value="$PROJECT_DIR$/output2.txt" />
+        <option value="$PROJECT_DIR$/testSAX.py" />
+        <option value="$PROJECT_DIR$/unittests.py" />
+        <option value="$PROJECT_DIR$/output5.txt" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/unittest2.py" />
+        <option value="$PROJECT_DIR$/dom_unittest.py" />
+        <option value="$PROJECT_DIR$/1.xml" />
+        <option value="$PROJECT_DIR$/transform.xsl" />
+        <option value="$PROJECT_DIR$/analise.py" />
+        <option value="$PROJECT_DIR$/oop2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laboop2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboop2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bohdan\PycharmProjects\laboop2\test_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.oop2">
+    <configuration name="Unittests in dom_unittest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="laboop2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dom_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in unittest2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="laboop2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in unittests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="laboop2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="analise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="laboop2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="laboop2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.oop2" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in unittests.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in dom_unittest.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.analise" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in unittest2.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.oop2" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in dom_unittest.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in unittest2.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.analise" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in unittests.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3386af79-4d7b-42b3-b1df-486f5d7cc9c5" name="Default" comment="" />
+      <created>1511610420551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511610420551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 12m 36s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 14m 33s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 48m 57s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 49m 36s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 50m 01s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 13h 52m 03s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 14h 18m 12s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 14h 27m 24s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_dom_unittest_py - 2017.12.05 at 14h 27m 38s.xml">
+      <configuration name="Unittests in dom_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest2_py - 2017.12.05 at 14h 19m 38s.xml">
+      <configuration name="Unittests in unittest2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25256222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.12737921" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.87262076" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3338816" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="city" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="23" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xsl" />
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.xml.py" />
+    <entry file="file://$PROJECT_DIR$/oop2.xml.py" />
+    <entry file="file://$PROJECT_DIR$/1.xsl" />
+    <entry file="file://$PROJECT_DIR$/design.py" />
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/output6.txt" />
+    <entry file="file://$PROJECT_DIR$/output7.txt" />
+    <entry file="file://$PROJECT_DIR$/output8.txt" />
+    <entry file="file://$PROJECT_DIR$/output9.txt" />
+    <entry file="file://$PROJECT_DIR$/output10.txt" />
+    <entry file="file://$PROJECT_DIR$/output1.txt" />
+    <entry file="file://$PROJECT_DIR$/output3.txt" />
+    <entry file="file://$PROJECT_DIR$/output4.txt" />
+    <entry file="file://$PROJECT_DIR$/outtest.txt" />
+    <entry file="file://$PROJECT_DIR$/test_files/testSAX.py" />
+    <entry file="file://$PROJECT_DIR$/test_files/testDOM.py" />
+    <entry file="uml://Python/#C:/Users/Bohdan/PycharmProjects/laboop2/analise.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/analise.py</OriginalElement>
+          <nodes>
+            <node x="228.00000000000003" y="158.0">analise.Document</node>
+            <node x="0.0" y="158.0">abc.ABCMeta</node>
+            <node x="181.39814814814818" y="316.0">analise.SAX</node>
+            <node x="62.39814814814818" y="316.0">analise.DOM</node>
+            <node x="111.50000000000003" y="237.0">analise.Analise</node>
+            <node x="124.00000000000003" y="158.0">metaclass</node>
+            <node x="201.0277777777778" y="0.0">_collections_abc.Hashable</node>
+            <node x="239.0277777777778" y="79.0">object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_collections_abc.Hashable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="metaclass" target="object">
+              <point x="0.0" y="-14.5" />
+              <point x="166.00000000000003" y="138.0" />
+              <point x="249.86111111111114" y="138.0" />
+              <point x="-21.666666666666657" y="14.5" />
+            </edge>
+            <edge source="analise.Analise" target="object">
+              <point x="36.33333333333334" y="-14.5" />
+              <point x="202.33333333333337" y="212.0" />
+              <point x="365.5" y="212.0" />
+              <point x="365.5" y="128.0" />
+              <point x="293.19444444444446" y="128.0" />
+              <point x="21.66666666666668" y="14.5" />
+            </edge>
+            <edge source="analise.Analise" target="abc.ABCMeta">
+              <point x="-36.33333333333334" y="-14.5" />
+              <point x="129.66666666666669" y="212.0" />
+              <point x="52.0" y="212.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="analise.SAX" target="analise.Analise">
+              <point x="-2.8421709430404007E-14" y="-14.5" />
+              <point x="227.39814814814815" y="291.0" />
+              <point x="193.25000000000003" y="291.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="analise.Analise" target="metaclass">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="analise.DOM" target="analise.Analise">
+              <point x="0.0" y="-14.5" />
+              <point x="111.89814814814818" y="291.0" />
+              <point x="138.75000000000003" y="291.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="analise.Document" target="object">
+              <point x="0.0" y="-14.5" />
+              <point x="291.5" y="138.0" />
+              <point x="271.5277777777778" y="138.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-151.0" y="140.0" />
+          <SelectedNodes>
+            <node>object</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Bohdan/PycharmProjects/laboop2/oop2.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/oop2.py</OriginalElement>
+          <nodes>
+            <node x="" y="">oop2.AddressList</node>
+            <node x="" y="">object</node>
+            <node x="" y="">oop2.NameList</node>
+            <node x="" y="">oop2.KindList</node>
+            <node x="" y="">oop2.App</node>
+            <node x="" y="">oop2.PriceList</node>
+            <node x="" y="">_collections_abc.Hashable</node>
+            <node x="" y="">oop2.Buttons</node>
+            <node x="" y="">oop2.BagsList</node>
+            <node x="" y="">oop2.ChooseMethod</node>
+            <node x="" y="">oop2.TextWidget</node>
+            <node x="" y="">oop2.CityList</node>
+            <node x="" y="">oop2.Ratelist</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8711144806671721" x="650.0" y="389.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittests.py" />
+    <entry file="file://$PROJECT_DIR$/dom_test1.txt" />
+    <entry file="file://$PROJECT_DIR$/oop2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/oop2.py</OriginalElement>
+          <nodes>
+            <node x="0.0" y="797.0">oop2.AddressList</node>
+            <node x="837.0" y="797.0">oop2.NameList</node>
+            <node x="702.75" y="146.0">object</node>
+            <node x="1501.0" y="797.0">oop2.KindList</node>
+            <node x="1011.0" y="797.0">oop2.PriceList</node>
+            <node x="786.25" y="644.0">oop2.App</node>
+            <node x="736.75" y="0.0">_collections_abc.Hashable</node>
+            <node x="529.0" y="808.0">oop2.Buttons</node>
+            <node x="348.00000000000006" y="775.0">oop2.ChooseMethod</node>
+            <node x="668.0" y="797.0">oop2.BagsList</node>
+            <node x="1338.0" y="797.0">oop2.CityList</node>
+            <node x="1181.0" y="797.0">oop2.TextWidget</node>
+            <node x="184.0" y="797.0">oop2.Ratelist</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_collections_abc.Hashable">
+              <point x="0.0" y="-224.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="oop2.BagsList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="742.5" y="755.0" />
+              <point x="824.05" y="755.0" />
+              <point x="-4.2000000000000455" y="25.5" />
+            </edge>
+            <edge source="oop2.KindList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="1574.5" y="715.0" />
+              <point x="866.0500000000002" y="715.0" />
+              <point x="37.80000000000007" y="25.5" />
+            </edge>
+            <edge source="oop2.Buttons" target="oop2.App">
+              <point x="0.0" y="-59.0" />
+              <point x="588.5" y="745.0" />
+              <point x="815.6500000000001" y="745.0" />
+              <point x="-12.600000000000023" y="25.5" />
+            </edge>
+            <edge source="oop2.Ratelist" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="256.0" y="725.0" />
+              <point x="798.8500000000001" y="725.0" />
+              <point x="-29.399999999999977" y="25.5" />
+            </edge>
+            <edge source="oop2.ChooseMethod" target="oop2.App">
+              <point x="0.0" y="-92.0" />
+              <point x="428.50000000000006" y="735.0" />
+              <point x="807.25" y="735.0" />
+              <point x="-21.0" y="25.5" />
+            </edge>
+            <edge source="oop2.AddressList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="82.0" y="715.0" />
+              <point x="790.45" y="715.0" />
+              <point x="-37.799999999999955" y="25.5" />
+            </edge>
+            <edge source="oop2.NameList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="914.0" y="755.0" />
+              <point x="832.45" y="755.0" />
+              <point x="4.2000000000000455" y="25.5" />
+            </edge>
+            <edge source="oop2.App" target="object">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="224.0" />
+            </edge>
+            <edge source="oop2.PriceList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="1086.0" y="745.0" />
+              <point x="840.8500000000001" y="745.0" />
+              <point x="12.600000000000023" y="25.5" />
+            </edge>
+            <edge source="oop2.CityList" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="1409.5" y="725.0" />
+              <point x="857.6500000000001" y="725.0" />
+              <point x="29.399999999999977" y="25.5" />
+            </edge>
+            <edge source="oop2.TextWidget" target="oop2.App">
+              <point x="0.0" y="-70.0" />
+              <point x="1249.5" y="735.0" />
+              <point x="849.25" y="735.0" />
+              <point x="21.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8711144806671721" x="267.0" y="779.0" />
+          <SelectedNodes>
+            <node>oop2.Ratelist</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="970">
+          <caret line="828" column="0" lean-forward="false" selection-start-line="828" selection-start-column="0" selection-end-line="828" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analise.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/analise.py</OriginalElement>
+          <nodes>
+            <node x="135.96296296296293" y="543.0">analise.Document</node>
+            <node x="923.9629629629629" y="510.0">abc.ABCMeta</node>
+            <node x="0.0" y="800.0">analise.SAX</node>
+            <node x="686.0" y="800.0">analise.DOM</node>
+            <node x="519.5" y="699.0">analise.Analise</node>
+            <node x="31.962962962962933" y="565.0">metaclass</node>
+            <node x="490.6759259259259" y="0.0">_collections_abc.Hashable</node>
+            <node x="456.6759259259259" y="123.0">object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_collections_abc.Hashable">
+              <point x="0.0" y="-168.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="metaclass" target="object">
+              <point x="0.0" y="-14.5" />
+              <point x="73.96296296296293" y="485.0" />
+              <point x="498.50925925925924" y="485.0" />
+              <point x="-83.66666666666669" y="168.5" />
+            </edge>
+            <edge source="analise.Analise" target="object">
+              <point x="0.0" y="-25.5" />
+              <point x="852.5" y="674.0" />
+              <point x="913.4629629629629" y="674.0" />
+              <point x="913.4629629629629" y="485.0" />
+              <point x="665.8425925925926" y="485.0" />
+              <point x="83.66666666666674" y="168.5" />
+            </edge>
+            <edge source="analise.Analise" target="abc.ABCMeta">
+              <point x="222.0" y="-25.5" />
+              <point x="1074.5" y="674.0" />
+              <point x="1084.462962962963" y="674.0" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="analise.SAX" target="analise.Analise">
+              <point x="0.0" y="-25.5" />
+              <point x="333.0" y="775.0" />
+              <point x="686.0" y="775.0" />
+              <point x="-166.5" y="25.5" />
+            </edge>
+            <edge source="analise.Analise" target="metaclass">
+              <point x="-222.0" y="-25.5" />
+              <point x="630.5" y="674.0" />
+              <point x="73.96296296296293" y="674.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="analise.DOM" target="analise.Analise">
+              <point x="0.0" y="-25.5" />
+              <point x="166.5" y="25.5" />
+            </edge>
+            <edge source="analise.Document" target="object">
+              <point x="0.0" y="-36.5" />
+              <point x="519.4629629629629" y="485.0" />
+              <point x="582.1759259259259" y="485.0" />
+              <point x="0.0" y="168.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="463.5" y="895.0" />
+          <SelectedNodes>
+            <node>_collections_abc.Hashable</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3440">
+          <caret line="368" column="25" lean-forward="true" selection-start-line="368" selection-start-column="25" selection-end-line="368" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#72#680#0" expanded="false" />
+            <element signature="e#726#874#0" expanded="false" />
+            <element signature="e#1040#3177#0" expanded="false" />
+            <element signature="e#3593#4136#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

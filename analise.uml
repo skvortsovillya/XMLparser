@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/analise.py</OriginalElement>
+  <nodes>
+    <node x="135.96296296296293" y="543.0">analise.Document</node>
+    <node x="923.9629629629629" y="510.0">abc.ABCMeta</node>
+    <node x="490.6759259259259" y="0.0">_collections_abc.Hashable</node>
+    <node x="31.962962962962933" y="565.0">metaclass</node>
+    <node x="519.5" y="699.0">analise.Analise</node>
+    <node x="686.0" y="800.0">analise.DOM</node>
+    <node x="0.0" y="800.0">analise.SAX</node>
+    <node x="456.6759259259259" y="123.0">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-168.5" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="metaclass" target="object">
+      <point x="0.0" y="-14.5" />
+      <point x="73.96296296296293" y="485.0" />
+      <point x="498.50925925925924" y="485.0" />
+      <point x="-83.66666666666669" y="168.5" />
+    </edge>
+    <edge source="analise.Analise" target="object">
+      <point x="0.0" y="-25.5" />
+      <point x="852.5" y="674.0" />
+      <point x="913.4629629629629" y="674.0" />
+      <point x="913.4629629629629" y="485.0" />
+      <point x="665.8425925925926" y="485.0" />
+      <point x="83.66666666666674" y="168.5" />
+    </edge>
+    <edge source="analise.Analise" target="abc.ABCMeta">
+      <point x="222.0" y="-25.5" />
+      <point x="1074.5" y="674.0" />
+      <point x="1084.462962962963" y="674.0" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="analise.SAX" target="analise.Analise">
+      <point x="0.0" y="-25.5" />
+      <point x="333.0" y="775.0" />
+      <point x="686.0" y="775.0" />
+      <point x="-166.5" y="25.5" />
+    </edge>
+    <edge source="analise.Analise" target="metaclass">
+      <point x="-222.0" y="-25.5" />
+      <point x="630.5" y="674.0" />
+      <point x="73.96296296296293" y="674.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="analise.DOM" target="analise.Analise">
+      <point x="0.0" y="-25.5" />
+      <point x="166.5" y="25.5" />
+    </edge>
+    <edge source="analise.Document" target="object">
+      <point x="0.0" y="-36.5" />
+      <point x="519.4629629629629" y="485.0" />
+      <point x="582.1759259259259" y="485.0" />
+      <point x="0.0" y="168.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="733.5" y="832.5" />
+  <SelectedNodes>
+    <node>_collections_abc.Hashable</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+</Diagram>
+

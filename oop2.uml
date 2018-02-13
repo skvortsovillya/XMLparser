@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/Bohdan/PycharmProjects/laboop2/oop2.py</OriginalElement>
+  <nodes>
+    <node x="164.0" y="797.0">oop2.AddressList</node>
+    <node x="698.5" y="146.0">object</node>
+    <node x="1325.0" y="797.0">oop2.NameList</node>
+    <node x="668.0" y="797.0">oop2.KindList</node>
+    <node x="782.0" y="644.0">oop2.App</node>
+    <node x="1155.0" y="797.0">oop2.PriceList</node>
+    <node x="732.5" y="0.0">_collections_abc.Hashable</node>
+    <node x="529.0" y="808.0">oop2.Buttons</node>
+    <node x="1499.0" y="797.0">oop2.BagsList</node>
+    <node x="347.99999999999994" y="775.0">oop2.ChooseMethod</node>
+    <node x="998.0" y="797.0">oop2.TextWidget</node>
+    <node x="835.0" y="797.0">oop2.CityList</node>
+    <node x="0.0" y="797.0">oop2.Ratelist</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-224.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="oop2.BagsList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="1573.5" y="715.0" />
+      <point x="861.8" y="715.0" />
+      <point x="37.80000000000007" y="25.5" />
+    </edge>
+    <edge source="oop2.KindList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="741.5" y="755.0" />
+      <point x="819.8" y="755.0" />
+      <point x="-4.2000000000000455" y="25.5" />
+    </edge>
+    <edge source="oop2.Ratelist" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="72.0" y="715.0" />
+      <point x="786.2" y="715.0" />
+      <point x="-37.799999999999955" y="25.5" />
+    </edge>
+    <edge source="oop2.Buttons" target="oop2.App">
+      <point x="0.0" y="-59.0" />
+      <point x="588.5" y="745.0" />
+      <point x="811.3999999999999" y="745.0" />
+      <point x="-12.600000000000023" y="25.5" />
+    </edge>
+    <edge source="oop2.ChooseMethod" target="oop2.App">
+      <point x="0.0" y="-92.0" />
+      <point x="428.49999999999994" y="735.0" />
+      <point x="803.0" y="735.0" />
+      <point x="-21.0" y="25.5" />
+    </edge>
+    <edge source="oop2.AddressList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="246.0" y="725.0" />
+      <point x="794.5999999999999" y="725.0" />
+      <point x="-29.399999999999977" y="25.5" />
+    </edge>
+    <edge source="oop2.NameList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="1402.0" y="725.0" />
+      <point x="853.3999999999999" y="725.0" />
+      <point x="29.399999999999977" y="25.5" />
+    </edge>
+    <edge source="oop2.App" target="object">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="224.0" />
+    </edge>
+    <edge source="oop2.PriceList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="1230.0" y="735.0" />
+      <point x="845.0" y="735.0" />
+      <point x="21.0" y="25.5" />
+    </edge>
+    <edge source="oop2.CityList" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="906.5" y="755.0" />
+      <point x="828.2" y="755.0" />
+      <point x="4.2000000000000455" y="25.5" />
+    </edge>
+    <edge source="oop2.TextWidget" target="oop2.App">
+      <point x="0.0" y="-70.0" />
+      <point x="1066.5" y="745.0" />
+      <point x="836.5999999999999" y="745.0" />
+      <point x="12.600000000000023" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8711144806671721" x="649.5" y="748.8176675369887" />
+  <SelectedNodes>
+    <node>oop2.Ratelist</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+</Diagram>
+
